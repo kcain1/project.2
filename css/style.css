@@ -23,22 +23,7 @@ body {
      font-weight: normal;
 }
 
-}
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-     letter-spacing: 0;
-     font-weight: normal;
-     position: relative;
-     padding: 0 0 10px 0;
-     font-weight: normal;
-     line-height: normal;
-     color: #111111;
-     margin: 0
 }
 
 h1 {
@@ -56,37 +41,53 @@ h3 {
      font-family: 'Baloo Chettan', cursive;
 }
 
-#nav {
-  overflow: hidden;
-}
-#nav-container { 
-  float: left;
-  width: 100%;
-  position: relative; 
-}
-#nav-container ul {
-  float: left;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  position: relative;
-  left: 50%;
-}
-#nav-container ul li {
-  float: left;
-  display: block;
-  position: relative;
-  right:50%;
-}
-#nav-container ul li a {
-  text-decoration: none;
-  display: block;
-  padding: 10px 20px;
-  color: #000;
-}
-#nav-container ul li a:hover {
-  background-color: #a78250;
-  background-image: url(nav.jfif);
-  background-size: contain;
-  color:#fff;
-}
+#main-navbar,
+ #nav2,
+ #nav3 {
+     background-color: rgb(255, 177, 9);
+     overflow: hidden;
+ }
+ 
+ #navbar-container,
+ #nav2-container,
+ #nav3-container {
+     position: relative;
+     float: left;
+     width: 100%;
+     border: 0.5px dotted white;
+ }
+ 
+ #navbar-container ul,
+ #nav2-container ul,
+ #nav3-container ul {
+     margin: 0;
+     padding: 0;
+     float: left;
+     position: relative;
+     left: 50%;
+ }
+ 
+ #navbar-container li,
+ #nav2-container li,
+ #nav3-container li {
+     list-style-type: none;
+     float: left;
+     /*position: relative;*/
+     right: 50%;
+     display: block;
+ }
+ 
+ #navbar-container li:hover,
+ #nav2-container li:hover,
+ #nav3-container li:hover {
+     background-color: rgb(231, 91, 36);
+ }
+ 
+ #navbar-container li a,
+ #nav2-container li a,
+ #nav3-container li a {
+     text-decoration: none;
+     color: #fff;
+     display: block;
+     padding: 10px 20px;
+     font-size: 20px;
