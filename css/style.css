@@ -1,90 +1,9 @@
 
 element.style {
 }
-* {
-    margin: 0;
-    padding: 0;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
+*
 }
-user agent stylesheet
-link {
-    display: none;
-}
-:root {
-    --cp-button-bg: var(--cp-color-13);
-    --cp-button-color: white;
-    --cp-button-hover-bg: var(--cp-color-12);
-    --cp-button-hover-color: var(--cp-button-color);
-    --cp-button-hover-icon: var(--cp-button-icon);
-    --cp-button-default-bg: var(--cp-button-bg);
-    --cp-button-default-color: var(--cp-button-color);
-    --cp-input-bg: var(--cp-color-4);
-    --cp-input-color: var(--cp-color-17);
-    --cp-input-placeholder: var(--cp-color-10);
-    --cp-input-focus-border: var(--cp-color-11);
-    --cp-input-focus-bg: var(--cp-color-1);
-    --cp-select-bg: var(--cp-color-4);
-    --cp-select-color: var(--cp-color-18);
-    --cp-select-hover-bg: var(--cp-color-1);
-    --cp-select-hover-color: var(--cp-color-16);
-    --cp-select-focus-border: var(--cp-color-18);
-    --cp-pen-border: var(--cp-color-15);
-    --cp-pen-border-hover: var(--cp-color-13);
-    --cp-pen-radius: 5px;
-    --cp-pen-input-bg: var(--cp-color-17);
-    --cp-pen-input-color: var(--cp-color-5);
-    --cp-pen-input-placeholder: var(--cp-color-10);
-    --cp-pen-input-focus-border: var(--cp-color-20);
-    --cp-pen-input-focus-bg: var(--cp-color-14);
-    --cp-pen-select-bg: var(--cp-color-17);
-    --cp-pen-select-color: var(--cp-color-5);
-    --cp-pen-select-hover-bg: var(--cp-color-20);
-    --cp-pen-select-hover-color: var(--cp-color-1);
-    --cp-pen-select-focus-border: var(--cp-color-18);
-    --cp-pen-header-bg: var(--cp-color-20);
-    --cp-pen-header-color: var(--cp-color-1);
-    --cp-pen-header-color-secondary: var(--cp-color-8);
-    --cp-pen-header-button-bg: var(--cp-color-15);
-    --cp-pen-header-button-icon: var(--cp-color-10);
-    --cp-pen-header-button-color: var(--cp-color-8);
-    --cp-pen-header-button-hover-bg: var(--cp-color-13);
-    --cp-pen-header-button-hover-color: var(--cp-color-3);
-    --cp-pen-dropdown-bg: var(--cp-color-16);
-    --cp-pen-dropdown-color: var(--cp-color-1);
-    --cp-pen-dropdown-border: var(--cp-color-16);
-    --cp-pen-dropdown-fill: var(--cp-color-11);
-    --cp-pen-dropdown-button-bg: var(--cp-color-15);
-    --cp-pen-dropdown-button-color: var(--cp-color-1);
-    --cp-pen-dropdown-button-hover-bg: var(--cp-color-12);
-    --cp-pen-dropdown-button-hover-color: var(--cp-color-1);
-    --cp-pen-omnibar-bg: var(--cp-color-17);
-    --cp-pen-omnibar-border: var(--cp-color-14);
-    --cp-pen-omnibar-color: var(--cp-color-6);
-    --cp-pen-omnibar-color-secondary: var(--cp-color-5);
-Show All Properties (208 more)
-}
-
-:root {
-    --cp-sidebar-width: 188px;
-    --cp-sidebar-fixed-height: 700px;
-    --cp-header-height: 65px;
-    --cp-header-height-small: 53px;
-    --cp-control-bar-height: 29px;
-    --cp-control-space-between: 1.5rem;
-    --cp-font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
-    --cp-font-family-header: 'Telefon Black', Sans-Serif;
-    --cp-font-family-header-alt: 'Telefon', Sans-Serif;
-    --cp-font-family-monospace: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;
-    --cp-button-icon: currentColor;
-    --cp-button-border-width: 3px;
-    --cp-button-border-radius: 4px;
-    --cp-button-margin-block: 1px;
-    --cp-button-margin-inline: 10px;
-    --cp-button-padding-inline: 16px;
-    --cp-button-padding-block: 10px;
-}
-@media (max-width: 830px)
+@images (max-width: 830px)
 html {
     font-size: 14px;
 }
