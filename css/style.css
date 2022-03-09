@@ -23,15 +23,6 @@ body {
      font-weight: normal;
 }
 
-a {
-     color: #1f1f1f;
-     text-decoration: none !important;
-     outline: none !important;
-     -webkit-transition: all .3s ease-in-out;
-     -moz-transition: all .3s ease-in-out;
-     -ms-transition: all .3s ease-in-out;
-     -o-transition: all .3s ease-in-out;
-     transition: all .3s ease-in-out;
 }
 
 h1,
@@ -65,22 +56,37 @@ h3 {
      font-family: 'Baloo Chettan', cursive;
 }
 
-h4 {
-     font-size: 16px
+#main-navbar {
+  overflow: hidden;
 }
-
-h5 {
-     font-size: 14px
+#navbar-container { 
+  float: left;
+  width: 100%;
+  position: relative; 
 }
-
-h6 {
-     font-size: 13px
+#navbar-container ul {
+  float: left;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
 }
-
-*,
-*::after,
-*::before {
-     -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-     box-sizing: border-box;
+#navbar-container ul li {
+  float: left;
+  display: block;
+  position: relative;
+  right:50%;
+}
+#navbar-container ul li a {
+  text-decoration: none;
+  display: block;
+  padding: 10px 20px;
+  color: #000;
+}
+#navbar-container ul li a:hover {
+  background-color: #a78250;
+  background-image: url(nav.jfif);
+  background-size: contain;
+  color:#fff;
 }
