@@ -1,3 +1,8 @@
+body {
+  background-color: #cccc99
+}
+
+
 html {
     font-family: var(--cp-font-family);
     line-height: 1.5;
