@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"><head>
         <meta charset="utf-8">
-        <title>Project 1</title>
+        <title>Project 2</title>
     </head>
     <body>
         <nav>
@@ -18,7 +18,7 @@
 		and sit on people laps</p>
 		<img src="images/dita.sitting.jpg" width="600" height="800" alt="bandita the tiny chihuahua dog">
 		<section id="dita_likes">
-		  <h3>Bandita's Likes</h3
+		  <h3>Bandita's Likes</h3>
             <p>Food of all kinds!</p>
               <img src="images/dita.turkey.jpg" width="600" height="800" alt="bandita at table with turkey leg">
             <p>More food of all kinds!</p>
