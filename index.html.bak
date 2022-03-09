@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+        <meta charset="utf-8">
+        <title>Project 1</title>
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li><a href="index.html" title="home">home</a></li>
+                <li><a href="bandita.html" title="bandita">bandita</a></li>
+                <li><a href="book_list.html" title="book_list">book_list</a></li>
+            </ul>
+        </nav>
+          <h2>Kevin Cain's Resume</h2>
+          <p>Email:kcain1@hawk.iit.edu</p>
+        <h2>Objective</h2>
+          <p>To Join a growing fast paced industry that will further my knowledge, skills, education.</p>
+		
+		<h2>Summary of Qualifications</h2>
+		  <ul>
+	        <li>Customer Service Skills</li>
+	        <li>Excellent Verbal Communication</li>
+	        <li>Wide Range of Computer Skills</li>
+	        <li>Forklift Operation</li>
+	     </ul>
+
+        <h2>Work history</h2>
+          <p>John Stroger Hospital, Pharmaceutical Internship Program May-September of 2011, Hendrix Piano Moving Piano Mover March-November 2011,
+		  GES Marshalling Yard Coordinator May 2012-March 2014, Grane Transportation CFS Operator and Shift Lead July 2014-Oct 2015,
+		  M&K Truck Centers Parts Counter & apprenticeship November 2015-July 2020.</p>
+
+       <h2>Education</h2>
+		<ul>
+	      <li>Hinsdale Central Highschool Graduate 2010</li>
+	      <li>John Stroger Hospital Pharmaceutical Program Certification earned june 2011</li>
+	      <li>Eastern Gateway Community College Associates Dregree 2021</li>
+	      <li>Currently Attending Illinois Institute Of Technology Information Technology Management Bachelor's Program</li>
+	</ul>
+
+        <h2> Personal Hobbies</h2>
+          <ul>
+            <li>Martial Arts Kyokushinkai & Shuri-ryū Karate</li>
+            <li>Video game Emulation & Card Games</li>
+			<li>Study of History</li>
+            <li>Reading</li>
+			<li>Traveling</li>
+          </ul>
+    
+</body></html>
