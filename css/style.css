@@ -49,7 +49,7 @@ h3 {
 #main-navbar,
  #nav2,
  #nav3 {
-     background-color: light blue;
+     background-color: blue;
      overflow: hidden;
  }
  
@@ -115,5 +115,7 @@ p {
    margin-left: auto;
    margin-right: auto;
    width: 50%;
+   font-size: 18px;
+   font-family: 'Baloo Chettan', cursive;
 }
 
