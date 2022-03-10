@@ -102,3 +102,10 @@ h3 {
  section {
 	 box-shadow: 10px 5px 5px red;);
  }
+ 
+ img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
