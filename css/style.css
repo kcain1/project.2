@@ -126,7 +126,10 @@ h3 {
    margin-left: auto;
    margin-right: auto;
    width: 50%;
-   border: 10px #fff8ee;
+}
+
+img {
+  border: 5px solid #fff8ee;
 }
 
 p {
