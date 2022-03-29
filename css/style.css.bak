@@ -9,7 +9,7 @@ html {
     font-size: 15px;
     font-weight: 400;
 }
-h1, h2, h4 {
+h1, h2, h4, ul, li, p {
     text-align: center;
 }
 * {
@@ -60,6 +60,10 @@ h3 {
      float: left;
      width: 100%;
      border: 1px dotted yellow;
+	 background-color: red;
+     overflow: hidden;
+     border-radius: 25px;
+     padding: 10px;
  }
  
  #navbar-container ul,
@@ -119,3 +123,10 @@ p {
    font-family: 'Baloo Chettan', cursive;
 }
 
+video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border: 10px solid red;
+}

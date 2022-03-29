@@ -9,7 +9,7 @@ html {
     font-size: 15px;
     font-weight: 400;
 }
-h1, h2, h4 {
+h1, h2, h4, ul, li, p {
     text-align: center;
 }
 * {
@@ -51,6 +51,7 @@ h3 {
  #nav3 {
      background-color: blue;
      overflow: hidden;
+	 text-align: center;
  }
  
  #navbar-container,
@@ -64,6 +65,7 @@ h3 {
      overflow: hidden;
      border-radius: 25px;
      padding: 10px;
+	 text-align: center;
  }
  
  #navbar-container ul,
