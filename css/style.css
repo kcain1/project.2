@@ -121,16 +121,14 @@ h3 {
      background-color: rgb(231, 91, 36);
 	 }
  
- img {
+ .img {
    display: block;
    margin-left: auto;
    margin-right: auto;
    width: 50%;
+   border: 5px solid #fff8ee;
 }
 
-img {
-  border: 5px solid #fff8ee;
-}
 
 p {
    display: block;
