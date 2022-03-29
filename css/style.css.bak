@@ -176,7 +176,7 @@ p {
 .nav {
 	text-align: center;
 }
-.img {
+.imgs {
     border: 5px solid #fff8ee;
     border-radius: 20px;
     width: 1200px;
