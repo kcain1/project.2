@@ -99,7 +99,7 @@ h3 {
  #nav3-container li:hover {
      background-color: rgb(231, 91, 36);
 	 text-align: center;
-	 font-family: 'Baloo Chettan', cursive;
+	 font-family: 'Baloo Chettan',;
  }
  
  #navbar-container li a,
@@ -128,7 +128,7 @@ p {
    margin-right: auto;
    width: 50%;
    font-size: 18px;
-   font-family: 'Baloo Chettan', cursive;
+   font-family: 'Baloo Chettan';
 }
 
 .video {
@@ -160,7 +160,7 @@ p {
 
 .navbar-container li,
 .nav2-container li,
-.nav3-container:after {
+.nav3-container li:after {
   content: "";
   background: blue;
   display: block;
@@ -176,7 +176,7 @@ p {
 .nav {
 	text-align: center;
 }
-.imgs {
+#imgs {
     border: 5px solid #fff8ee;
     border-radius: 20px;
     width: 1200px;
