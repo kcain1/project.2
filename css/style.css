@@ -164,7 +164,7 @@ p {
 .nav2-container li,
 .nav3-container:after {
   content: "";
-  background: red;
+  background: blue;
   display: block;
   position: absolute;
   padding-top: 300%;
