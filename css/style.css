@@ -120,14 +120,6 @@ h3 {
   #section :hover {
      background-color: rgb(231, 91, 36);
 	 }
- 
- .img {
-   display: block;
-   margin-left: auto;
-   margin-right: auto;
-   width: 50%;
-   border: 5px solid #fff8ee;
-}
 
 
 p {
@@ -183,4 +175,15 @@ p {
 
 .nav {
 	text-align: center;
+}
+.imgs {
+    border: 5px solid #fff8ee;
+    border-radius: 20px;
+    width: 1200px;
+    height: 600px;
+    margin-left: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 60px;
 }
