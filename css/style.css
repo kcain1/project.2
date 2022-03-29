@@ -99,6 +99,7 @@ h3 {
  #nav3-container li:hover {
      background-color: rgb(231, 91, 36);
 	 text-align: center;
+	 font-family: 'Baloo Chettan', cursive;
  }
  
  #navbar-container li a,
@@ -139,4 +140,37 @@ p {
     width: 50%;
     box-shadow: 10px 5px 5px red;
 	border: 10px solid red;
+}
+
+.navbar-container li,
+.nav2-container li,
+.nav3-container li  {
+    position: relative;
+    background-color: blue;
+    border: none;
+    font-size: 28px;
+    color: #FFFFFF;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.navbar-container li,
+.nav2-container li,
+.nav3-container:after {
+  content: "";
+  background: red;
+  display: block;
+  position: absolute;
+  padding-top: 300%;
+  padding-left: 350%;
+  margin-left: -20px!important;
+  margin-top: -120%;
+  opacity: 0;
+  transition: all 0.8s
 }
