@@ -63,7 +63,7 @@ h3 {
      position: relative;
      float: left;
      width: 100%;
-     border: 1px dotted yellow;
+     border: 5px dotted yellow;
 	 background-color: red;
      overflow: hidden;
      border-radius: 25px;
