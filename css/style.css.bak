@@ -202,6 +202,6 @@ text-decoration:none;
 }
 #booksleft {
     float: left;
-    height: 1%;
-    width: 1%;
+    height: 10%;
+    width: 10%;
 }
