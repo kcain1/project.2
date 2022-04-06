@@ -179,9 +179,8 @@ p {
 #imgs {
     border: 5px solid #fff8ee;
     border-radius: 20px;
-    width: 1200px;
-    height: 600px;
-    margin-left: 60px;
+    width: 50%;
+    height: 50%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -189,4 +188,9 @@ p {
 }
 img {
   border: 5px solid #fff8ee;
+  width: 50%;
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
