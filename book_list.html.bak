@@ -41,6 +41,8 @@
 			</section>
 			
 			  <section id="green_bone">
+			    <img id="booksleft" src="images/bookstack.jpg" alt="books up left side of page">
+		        <img id="booksright" src="images/bookstack.jpg" alt="books up right side of page">
 		        <h2>The Green Bone Saga</h2>
 		          <p>The Green Bone Saga by Fonda Lee is a series of three books starting with the Jade City then the Jade War and concluding with the Jade Legacy. I would describe
 			      this as a Godfather trilogy that takes place in a mythical like Hong Kong where Jade has power. Unlike The Godfather apparently each subsequent novel gets better
@@ -48,6 +50,8 @@
 			      <img src="images/greenbone.jpg" alt="Greenbone saga 3 book covers">
 			 </section>
 			   <section id="nevernight">
+			     <img id="booksleft" src="images/bookstack.jpg" alt="books up left side of page">
+		         <img id="booksright" src="images/bookstack.jpg" alt="books up right side of page">
 		         <h2>The Nevernight Chronicle</h2>
 		           <p>The Nevernight Chronicle is the New York Times bestselling fantasy series by award-winning author Jay Kristoff. The story follows Mia Corvere and her shadow Not-Cat as
 			        she trains within a secretive society of assassins with the goal of revege. Her tale takes place in the immersive world of Godsgrave, In a land where three suns almost never
@@ -57,7 +61,9 @@
 			        <img src="images/nevernight.jpg" alt="Nevernight books UK covers">
 			</section>
 				  
-			<section id="dresden">			
+			<section id="dresden">
+			  <img id="booksleft" src="images/bookstack.jpg" alt="books up left side of page">
+		      <img id="booksright" src="images/bookstack.jpg" alt="books up right side of page">
 		      <h2>The Dresden Files</h2>
 		        <p> The Dresden Files series by Jim Butcher has been a book series I've known about in passing for a very long time I remember back being a Freshman in high school and one of my
 			    classmates did a book report on it and at the time I thought it sounded okay, but I did not give it much thought after that. Fast forward to summer of 2021 and I was looking for
