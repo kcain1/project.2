@@ -100,7 +100,7 @@ h3 {
  #nav3-container li:hover {
      background-color: rgb(231, 91, 36);
 	 text-align: center;
-	 font-family: 'verdana' sans-serif;
+	 font-family: 'verdana', sans-serif;
  }
  
  #navbar-container li a,
