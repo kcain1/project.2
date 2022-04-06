@@ -13,7 +13,7 @@
              <li><a href="bandita.html" title="bandita">bandita</a></li>
              <li><a href="book_list.html" title="book_list">book_list</a></li>
            </ul>
-		   <img id="booksleft" src="image/bookstack.jpg" alt="books up left side of page">
+		   <img id="booksleft" src="images/bookstack.jpg" alt="books up left side of page">
         </nav>
           <h1>My recommended top book series I have read in the past few years</h1>
 		    <section id="red_rising">

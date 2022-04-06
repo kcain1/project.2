@@ -204,4 +204,5 @@ text-decoration:none;
     float: left;
     height: 10%;
     width: 10%;
+    background-repeat: repeat
 }

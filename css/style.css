@@ -206,3 +206,9 @@ text-decoration:none;
     width: 10%;
     background-repeat: repeat
 }
+ body {
+        background-image: "images/bookstack.jpg";
+        background-repeat: space repeat-y;
+        background-attachment: fixed;
+        background-position: left top;
+      }
