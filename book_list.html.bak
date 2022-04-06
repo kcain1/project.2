@@ -14,7 +14,8 @@
              <li><a href="book_list.html" title="book_list">book_list</a></li>
            </ul>
         </nav>
-		<img id="booksleft" src="images/bookstack.jpg" alt="books up left side of page">
+		  <img id="booksleft" src="images/bookstack.jpg" alt="books up left side of page">
+		   <img id="booksright" src="images/bookstack.jpg" alt="books up right side of page">
           <h1>My recommended top book series I have read in the past few years</h1>
 		    <section id="red_rising">
 		      <h2> The Red rising Series</h2>
