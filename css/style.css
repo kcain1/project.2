@@ -33,17 +33,17 @@ body {
 
 h1 {
      font-size: 24px;
-     font-family: 'Baloo Chettan';
+     font-family: sans-serif;
 }
 
 h2 {
      font-size: 22px;
-     font-family: 'Baloo Chettan';
+     font-family: sans-serif;
 }
 
 h3 {
      font-size: 18px;
-     font-family: 'Baloo Chettan';
+     font-family: sans-serif;
 }
 
 #main-navbar,
@@ -54,7 +54,7 @@ h3 {
 	 text-align: center;
 	 float: left;
      width: 100%;
-     position: relative
+     position: relative;
  }
  
  #navbar-container,
@@ -69,6 +69,7 @@ h3 {
      border-radius: 25px;
      padding: 10px;
 	 text-align: center;
+	 position: relative;
  }
  
  #navbar-container ul,
@@ -92,6 +93,7 @@ h3 {
      right: 50%;
      display: block;
 	 text-align: center;
+	 position: relative;
  }
  
  #navbar-container li:hover,
@@ -99,7 +101,7 @@ h3 {
  #nav3-container li:hover {
      background-color: rgb(231, 91, 36);
 	 text-align: center;
-	 font-family: 'Baloo Chettan',;
+	 font-family: sans-serif;
  }
  
  #navbar-container li a,
@@ -128,7 +130,7 @@ p {
    margin-right: auto;
    width: 50%;
    font-size: 18px;
-   font-family: 'Baloo Chettan';
+   font-family: sans-serif;
 }
 
 .video {

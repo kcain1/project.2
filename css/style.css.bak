@@ -187,3 +187,6 @@ p {
     margin-right: auto;
     margin-bottom: 60px;
 }
+img {
+  border: 5px solid #fff8ee;
+}
