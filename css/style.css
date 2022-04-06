@@ -198,6 +198,10 @@ img {
 #navbar-container a {
 display:block;
 text-align:center;
-width:150px; /* fixed width */
 text-decoration:none; 
+}
+#booksleft {
+    float: left;
+    height: 100%;
+    width: 50%;
 }

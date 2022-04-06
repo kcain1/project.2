@@ -195,15 +195,14 @@ img {
   margin-right: auto;
 }
 
-#main-navbar{
-width:750px;
-margin:0 auto;
-list-style:none;
-}
-
 #navbar-container a {
 display:block;
 text-align:center;
 width:150px; /* fixed width */
 text-decoration:none; 
+}
+#booksleft {
+    float: left;
+    height: 100%;
+    width: 50%;
 }
