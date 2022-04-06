@@ -1,21 +1,22 @@
 <!DOCTYPE html>
- <html lang="en"><head>
+ <html lang="en">
+   <head>
       <meta charset="utf-8">
       <title>Project 2</title>
       <link rel="stylesheet" type="text/css" href="css/normalize.css">
       <link rel="stylesheet" href="css/style.css">
     </head>
-    <body>
+      <body>
          <nav class="nav" id="nav3">
-        <ul id="nav3-container">
-                <li><a href="index.html" title="home">home</a></li>
-                <li><a href="bandita.html" title="bandita">bandita</a></li>
-                <li><a href="book_list.html" title="book_list">book_list</a></li>
-            </ul>
+           <ul id="nav3-container">
+             <li><a href="index.html" title="home">home</a></li>
+             <li><a href="bandita.html" title="bandita">bandita</a></li>
+             <li><a href="book_list.html" title="book_list">book_list</a></li>
+           </ul>
         </nav>
-        <h1>My recommended top book series I have read in the past few years</h1>
-		  <section id="red_rising">
-		    <h2> The Red rising Series</h2>
+          <h1>My recommended top book series I have read in the past few years</h1>
+		    <section id="red_rising">
+		      <h2> The Red rising Series</h2>
                 <p>The red rising series is one of my favorite modern science fiction series, Red Rising as a science fiction series written by Pierce Brown
 		        a New York Times bestselling author. I would describe the series as a futuristic sci-fi dystopian where the your position in society is based off a color-coded caste system
 		        Our main character Darrow is a red, a member of the lowest rank in the caste system. He works all day believing that he and his people are making a difference for the future
@@ -42,14 +43,14 @@
 			      and better. I am mostly done with book 1 (The Jade City) in the series, if you like magic and Kung Fu this is the book series for you.</p>
 			      <img src="images/greenbone.jpg" alt="Greenbone saga 3 book covers">
 			 </section>
-			 <section id="nevernight">
-		       <h2>The Nevernight Chronicle</h2>
-		          <p>The Nevernight Chronicle is the New York Times bestselling fantasy series by award-winning author Jay Kristoff. The story follows Mia Corvere and her shadow Not-Cat as
-			      she trains within a secretive society of assassins with the goal of revege. Her tale takes place in the immersive world of Godsgrave, In a land where three suns almost never
-			      set. What I like about this series, is the very flawed world, politics, and anti-hero female protagonist. Its a dark somewhat spooky series with dark humor and interesting
-			      notes within the margins of the book giving little facts about the world the books take place in. An awesome bloody, dark, steampunky story with interesting characters.
-			      I much prefer the European covers for this series.</p>
-			      <img src="images/nevernight.jpg" alt="Nevernight books UK covers">
+			   <section id="nevernight">
+		         <h2>The Nevernight Chronicle</h2>
+		           <p>The Nevernight Chronicle is the New York Times bestselling fantasy series by award-winning author Jay Kristoff. The story follows Mia Corvere and her shadow Not-Cat as
+			        she trains within a secretive society of assassins with the goal of revege. Her tale takes place in the immersive world of Godsgrave, In a land where three suns almost never
+			        set. What I like about this series, is the very flawed world, politics, and anti-hero female protagonist. Its a dark somewhat spooky series with dark humor and interesting
+			        notes within the margins of the book giving little facts about the world the books take place in. An awesome bloody, dark, steampunky story with interesting characters.
+			        I much prefer the European covers for this series.</p>
+			        <img src="images/nevernight.jpg" alt="Nevernight books UK covers">
 			</section>
 				  
 			<section id="dresden">			
