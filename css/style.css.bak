@@ -83,12 +83,12 @@ h3 {
 	 text-align: center;
  }
  
- #navbar-container li,
- #nav2-container li,
- #nav3-container li {
+ #navbar-container ul li,
+ #nav2-container ul li,
+ #nav3-container ul li {
      list-style-type: none;
      float: left;
-     /*position: relative;*/
+     position: relative;
      right: 50%;
      display: block;
 	 text-align: center;
@@ -193,4 +193,19 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+#main-navbar{
+width:750px;
+margin:0 auto;
+list-style:none;
+}
+#nav li {
+float:left;
+}
+#navbar-container a {
+display:block;
+text-align:center;
+width:150px; /* fixed width */
+text-decoration:none; 
 }

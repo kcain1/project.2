@@ -200,9 +200,7 @@ width:750px;
 margin:0 auto;
 list-style:none;
 }
-#nav li {
-float:left;
-}
+
 #navbar-container a {
 display:block;
 text-align:center;
